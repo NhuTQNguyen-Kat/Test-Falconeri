@@ -32,9 +32,13 @@ String email = ('testMail' + RN) + '@yopmail.com'
 
 WebUI.navigateToUrl('https://storefront:may2019@test.falconeri.com/jp/product/basic-baumwollhose-UPL0004.html?dwvar_UPL0004_Z_COL_FALCU=8493')
 
+WebUI.takeScreenshot()
+
 WebUI.enhancedClick(findTestObject('FLC/AT/Page_Basic-Baumwollhose - Homewear  Falconeri/div_XXXXL'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/FLC/DE/Page_Jacke Aus Cashmere Ultralight - Cardig_bdd78b/input_DML261G_emailNotify'), 260)
+
+WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/FLC/DE/Page_Jacke Aus Cashmere Ultralight - Cardig_bdd78b/input_DML261G_emailNotify'), 
     email)
