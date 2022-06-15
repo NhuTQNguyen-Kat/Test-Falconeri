@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+//WebUI.maximizeWindow()
 
 int RN = ((Math.random() * 10000000 //This gives a random number between 0 and 10000
     ) as int)
@@ -36,7 +36,7 @@ WebUI.takeScreenshot()
 
 //WebUI.setViewPortSize(1920, 1080)
 
-WebUI.setViewPortSize(2560, 1440)
+//WebUI.setViewPortSize(2560, 1440)
 
 WebUI.takeScreenshot()
 
