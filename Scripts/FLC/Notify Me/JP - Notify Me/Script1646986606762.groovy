@@ -34,7 +34,7 @@ WebUI.navigateToUrl('https://storefront:may2019@test.falconeri.com/jp/product/ba
 
 WebUI.takeScreenshot()
 
-WebUI.maximizeWindow()
+WebUI.setViewPortSize(1920, 1080)
 
 WebUI.takeScreenshot()
 
