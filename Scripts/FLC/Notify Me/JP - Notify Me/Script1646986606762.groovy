@@ -42,7 +42,7 @@ WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('FLC/AT/Page_Basic-Baumwollhose - Homewear  Falconeri/div_XXXXL'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/FLC/DE/Page_Jacke Aus Cashmere Ultralight - Cardig_bdd78b/input_DML261G_emailNotify'), 260)
+WebUI.waitForElementVisible(findTestObject('Object Repository/FLC/DE/Page_Jacke Aus Cashmere Ultralight - Cardig_bdd78b/input_DML261G_emailNotify'), 10)
 
 WebUI.takeScreenshot()
 
