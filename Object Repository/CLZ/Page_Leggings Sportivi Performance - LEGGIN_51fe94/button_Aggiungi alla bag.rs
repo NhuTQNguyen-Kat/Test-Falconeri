@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aggiungi alla bag</name>
+   <tag></tag>
+   <elementGuidId>981b9b23-829b-452a-8aa5-8065547ccf98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='descriptionSidebar']/div/div[4]/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cell.add-to-cart-actions.hide-for-small-only.cartActionsWrapper > div.cart-and-ipay > div.grid-x > button.cell.large-10.medium-10.add-to-cart.button.open-size-mobile-modal.font-size-13</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15d227a0-30c5-4bc3-b224-6a2cbf80570e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell large-10 medium-10 add-to-cart button open-size-mobile-modal font-size-13</value>
+      <webElementGuid>2098cad6-a63e-4289-9432-b6dbd4a216e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pid</name>
+      <type>Main</type>
+      <value>MIP064_color_448C</value>
+      <webElementGuid>e0c98df8-d969-4eb0-991b-234a62f4083a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>27a09c07-2eb6-421f-b9bd-6f37a5021b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-with-findinstore</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1297bd14-0aec-452d-ba9e-94771dcdcec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aggiungi alla bag</value>
+      <webElementGuid>65f1810b-227c-4e54-9100-db4092964884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;descriptionSidebar&quot;)/div[@class=&quot;cell large-10&quot;]/div[@class=&quot;grid-x grid-margin-x js-pickable-content-desktop-container hide-for-small-only&quot;]/div[@class=&quot;cell add-to-cart-actions hide-for-small-only cartActionsWrapper&quot;]/div[@class=&quot;cart-and-ipay&quot;]/div[@class=&quot;grid-x&quot;]/button[@class=&quot;cell large-10 medium-10 add-to-cart button open-size-mobile-modal font-size-13&quot;]</value>
+      <webElementGuid>6715dc1f-0ffe-4efb-bf58-3ab64d9d8297</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='descriptionSidebar']/div/div[4]/div[2]/div/div/button</value>
+      <webElementGuid>28e83fae-cbba-4914-83c5-d1bba1202e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='label.pdp.find_your_size_explanation'])[2]/following::button[1]</value>
+      <webElementGuid>429966d3-8037-4dc3-a407-b7ae6b231a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='label.pdp.waist'])[2]/following::button[1]</value>
+      <webElementGuid>0efabf44-6fbd-42fa-95f2-0cdce3dbdb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avvisami'])[2]/preceding::button[1]</value>
+      <webElementGuid>79ae63c8-e873-455d-8354-42dcc53eb7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personalizza'])[2]/preceding::button[2]</value>
+      <webElementGuid>d3428eb2-f1fe-49a4-8c53-8af04f8f1a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/div[2]/div/div/button</value>
+      <webElementGuid>46ef02df-3114-4881-8e6b-621e6047efca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Aggiungi alla bag' or . = 'Aggiungi alla bag')]</value>
+      <webElementGuid>84c9bc37-a22d-4aff-9732-93d165af5193</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

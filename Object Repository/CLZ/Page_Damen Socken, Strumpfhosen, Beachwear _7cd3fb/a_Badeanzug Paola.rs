@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Badeanzug Paola</name>
+   <tag></tag>
+   <elementGuidId>e12c6ad5-fef2-4440-b429-e0b047b8a9e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cell.auto.name > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[4]/header/nav/div/div/div[4]/span/div/div/div/div/div[2]/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>66d7bbe5-156e-4ae1-ab90-a7f09095a5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test.calzedonia.com/de/product/badeanzug_paola-IC00053.html?dwvar_IC00053_Z_COL_MARE=06</value>
+      <webElementGuid>76f3523f-7c97-4a94-acd2-fb49d02fde40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-analytics-phrase</name>
+      <type>Main</type>
+      <value>badeanzug_paola</value>
+      <webElementGuid>b9421297-dbbf-476a-a001-c4f584cf8014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-analytics-section</name>
+      <type>Main</type>
+      <value>products</value>
+      <webElementGuid>d7495210-0313-46c2-9eb0-81f0de3f2fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Badeanzug Paola</value>
+      <webElementGuid>9a904484-c117-42e0-80ab-ea54f00ece02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off suggestions-is-open&quot;]/div[@class=&quot;page page-home-gender&quot;]/header[@class=&quot;main-header pos-relative&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;top-row grid-x&quot;]/div[@class=&quot;cell medium-shrink small-2 first-for-medium-down grid-x&quot;]/span[@class=&quot;main-header-search header-search hide-for-small-only&quot;]/div[@class=&quot;site-search mobile-search add-fixed-position&quot;]/div[@class=&quot;suggestions-wrapper&quot;]/div[@class=&quot;suggestions scrollbar-custom margin-search&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x items&quot;]/div[@class=&quot;cell item item--product&quot;]/div[@class=&quot;grid-x grid-margin-x&quot;]/div[@class=&quot;cell auto name&quot;]/a[1]</value>
+      <webElementGuid>c43cfc41-0fe2-42c3-870f-bd0cb9d597da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[4]/header/nav/div/div/div[4]/span/div/div/div/div/div[2]/div/div/div[2]/a</value>
+      <webElementGuid>04c383bc-7a5e-4200-b802-09d9aaf5fa9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Badeanzug Paola')]</value>
+      <webElementGuid>f4837888-5cd4-493f-a5c4-df6dc0922fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alle Ansehen'])[1]/following::a[2]</value>
+      <webElementGuid>3fa9ca5f-ef8f-4a34-a016-7b6950a13a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::a[3]</value>
+      <webElementGuid>90824bdc-ba99-4313-a8e9-8bb064e176f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beliebte Suchanfrage'])[1]/preceding::a[1]</value>
+      <webElementGuid>b2366e57-c0a8-4e78-b4b9-c81d01bd995d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rt01707'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9244d2a-e7a1-4ec4-a378-dcffe2539813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Badeanzug Paola']/parent::*</value>
+      <webElementGuid>da717c4c-ac61-408c-9ca2-a9c52f254590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://test.calzedonia.com/de/product/badeanzug_paola-IC00053.html?dwvar_IC00053_Z_COL_MARE=06')])[2]</value>
+      <webElementGuid>da80ba03-42aa-4929-bacb-070495ff0834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/a</value>
+      <webElementGuid>ee3640e2-99ef-4586-8a3f-4c063ce19b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://test.calzedonia.com/de/product/badeanzug_paola-IC00053.html?dwvar_IC00053_Z_COL_MARE=06' and (text() = 'Badeanzug Paola' or . = 'Badeanzug Paola')]</value>
+      <webElementGuid>df73a2a1-568c-43d3-88a7-dab9ec5f7360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

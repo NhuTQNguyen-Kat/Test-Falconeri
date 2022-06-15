@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emailPayment</name>
+   <tag></tag>
+   <elementGuidId>e70f9df8-328a-4535-b7f5-dd8025cb6ce0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[8]/div[1]/div/div[3]/form/div[1]/fieldset[3]/div/div[3]/div[1]/div/label/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

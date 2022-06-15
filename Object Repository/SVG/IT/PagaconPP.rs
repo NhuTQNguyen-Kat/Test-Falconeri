@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PagaconPP</name>
+   <tag></tag>
+   <elementGuidId>f2d48bd7-7db3-4057-86d7-c067b53756c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[2]/div[3]/div/div[1]/div[13]/div[2]/form/fieldset/div[2]/ul/div[4]/div[2]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

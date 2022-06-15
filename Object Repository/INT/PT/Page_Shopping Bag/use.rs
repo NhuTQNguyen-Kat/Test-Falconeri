@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>d29b1f4e-e188-49a2-83dc-ee21d97a2570</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > i > svg.small.no-margin > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>c25cedfd-709c-4b45-b5d5-bdc13b687768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-intimissimi-pt-Site/-/pt_PT/v1654003782863/images/sprite.svg#removeproduct</value>
+      <webElementGuid>7eb8d789-396b-4a48-bd2a-fdd773d1b396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell medium-6&quot;]/div[@class=&quot;cart-line-item    product-info  uuid-22d25070920a8e41716947ab40 unique-identifier-no&quot;]/div[@class=&quot;line-item-header grid-x grid-margin-x align-right&quot;]/div[@class=&quot;cell small-5 text-right&quot;]/button[@class=&quot;line-item-action remove-btn remove-product btn btn-light&quot;]/span[1]/i[1]/svg[@class=&quot;small no-margin&quot;]/use[1]</value>
+      <webElementGuid>99176796-aa14-4af2-9c84-a09561401a42</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

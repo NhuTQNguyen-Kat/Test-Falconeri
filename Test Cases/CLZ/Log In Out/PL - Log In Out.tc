@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PL - Log In Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5a647d5-6f74-4a9e-b0d9-77423bc57e89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a0a3d85-e598-4d34-b4bc-199178c20d77</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testMail9079996@yopmail.com'</defaultValue>
+      <description></description>
+      <id>6a0a3d85-e598-4d34-b4bc-199178c20d77</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

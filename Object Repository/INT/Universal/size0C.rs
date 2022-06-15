@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>size0C</name>
+   <tag></tag>
+   <elementGuidId>f4ad5477-8cab-4ca7-8c75-298ff72081b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[3]/div/div[5]/div[4]/div/div[3]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/label[1]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[3]/div/div[5]/div[4]/div/div[3]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/label[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[3]/div/div[5]/div[4]/div/div[3]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/label[1]/div</value>
+      <webElementGuid>73ec9b85-c7da-4c38-b689-e80889302fd8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

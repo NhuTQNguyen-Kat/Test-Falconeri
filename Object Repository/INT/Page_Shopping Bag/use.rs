@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>c12f551f-8c6d-4a0b-ad9f-cbb5ab617cb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > i > svg.small.no-margin > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>9076a9cd-592f-444f-9eef-a4af8a586ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-intimissimi-eu-Site/-/it_IT/v1654003782862/images/sprite.svg#removeproduct</value>
+      <webElementGuid>7110952c-0227-4e3a-82b8-9cc36bb817e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell medium-6&quot;]/div[@class=&quot;cart-line-item cart-line-item--first   product-info  uuid-d3f8e94b8b5cf2f9784d41eac1 unique-identifier-no&quot;]/div[@class=&quot;line-item-header grid-x grid-margin-x align-right&quot;]/div[@class=&quot;cell small-5 text-right&quot;]/button[@class=&quot;line-item-action remove-btn remove-product btn btn-light&quot;]/span[1]/i[1]/svg[@class=&quot;small no-margin&quot;]/use[1]</value>
+      <webElementGuid>71f69eef-f69f-4851-9324-a3b512cf77fa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IT - User Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47e2eb3b-85d8-442a-8d51-cf530e5e804b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>717ade1e-cb23-4ee5-b570-3de2d3894756</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testMail4123192@yopmail.com\r\n'</defaultValue>
+      <description></description>
+      <id>717ade1e-cb23-4ee5-b570-3de2d3894756</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

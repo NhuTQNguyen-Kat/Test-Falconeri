@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DE - Gift Card - Registered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1581cde1-3e13-488f-af2b-35f8fbce8adf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99d37f78-65c7-449d-b192-c4cb14bae34a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d13a677f-2a35-48be-828e-8f9bdc7937cf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testMail6375949@yopmail.com'</defaultValue>
+      <description></description>
+      <id>99d37f78-65c7-449d-b192-c4cb14bae34a</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'surnameWLO'</defaultValue>
+      <description></description>
+      <id>d13a677f-2a35-48be-828e-8f9bdc7937cf</id>
+      <masked>false</masked>
+      <name>randomSurname</name>
+   </variable>
+</TestCaseEntity>

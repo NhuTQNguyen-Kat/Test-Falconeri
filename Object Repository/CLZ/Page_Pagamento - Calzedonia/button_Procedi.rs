@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Procedi</name>
+   <tag></tag>
+   <elementGuidId>21342035-f17b-4b59-987a-4d3de41abd1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>61c88346-97e5-4d16-94f5-84d9887fa231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button submit-shipping wide fwidth-padding</value>
+      <webElementGuid>e8cfae5b-d68d-4940-83d9-a5b9a3479c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7b030dca-173d-4b01-9d1b-7684ae600da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>246c7c61-1d7d-4c8e-9899-642bbb332790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>submit-shipping</value>
+      <webElementGuid>21cec05a-959e-4c64-808e-44b2f7f4307e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Procedi
+</value>
+      <webElementGuid>d45a40df-2412-46fd-b6d2-7faec5cb9832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-main&quot;)/div[@class=&quot;grid-x grid-margin-x align-center checkout-margin-grid checkout-grid-eu&quot;]/div[@class=&quot;cell medium-8 large-6&quot;]/div[@class=&quot;shipping-section shipping-section-eu&quot;]/div[@class=&quot;single-shipping&quot;]/div[@class=&quot;shipping-card&quot;]/div[@class=&quot;shipping-content shipping-content-eu&quot;]/div[@class=&quot;grid-x next-step-button align-right shipping&quot;]/button[@class=&quot;button submit-shipping wide fwidth-padding&quot;]</value>
+      <webElementGuid>54c310a4-0089-4501-874e-aa57e0673b99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='submit']</value>
+      <webElementGuid>be8738eb-a676-47d1-848b-12cce6304152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-main']/div/div/div[7]/div/div/div[3]/div/button</value>
+      <webElementGuid>1c08c043-84ef-4275-8f5d-1a7c1110c03e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€0.00'])[1]/following::button[1]</value>
+      <webElementGuid>90484d18-e0fa-427c-a12d-7f5979a82392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La tua E-gift card sarà spedita tramite e-mail'])[4]/following::button[1]</value>
+      <webElementGuid>2af13be9-0e30-45db-896c-36985f483457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trova negozio'])[1]/preceding::button[1]</value>
+      <webElementGuid>4d748876-d4d3-4a82-b6d9-3b3d4218503d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/preceding::button[1]</value>
+      <webElementGuid>bb8b21f1-6acf-46f2-adf8-6290a6996e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procedi']/parent::*</value>
+      <webElementGuid>f63c2685-372e-4144-be37-fb89a08093bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>22d83ba3-bb15-4bd2-98f9-8d69a72b091d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'submit' and (text() = '
+Procedi
+' or . = '
+Procedi
+')]</value>
+      <webElementGuid>27c95ddd-a3b3-4f6d-845e-377910b524be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

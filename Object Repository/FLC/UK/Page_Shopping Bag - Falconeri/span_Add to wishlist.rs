@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add to wishlist</name>
+   <tag></tag>
+   <elementGuidId>54c754b9-75eb-4353-a322-1fa1a76f0408</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[8]/div[4]/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.hide-for-small-only</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c86c20d-29ba-4bcb-bb23-244b4c51eaa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hide-for-small-only</value>
+      <webElementGuid>111e6392-caf1-4f52-8366-dca66b79c170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to wishlist</value>
+      <webElementGuid>c53248f2-2a9f-4745-8453-5b9635e3e0c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell large-8 medium-12 padding-right-60&quot;]/div[@class=&quot;cart-line-item cart-line-item--first   product-info  uuid-f289cab5e09fb5991cb044d1ed unique-identifier-null&quot;]/div[@class=&quot;line-item-header grid-x grid-margin-x align-right&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;options-box&quot;]/a[@class=&quot;line-item-action js-move-to-wishlist&quot;]/span[@class=&quot;hide-for-small-only&quot;]</value>
+      <webElementGuid>d12a1c90-2e6d-4e29-a4d4-32ab943d706b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[8]/div[4]/div/div/a/span</value>
+      <webElementGuid>8a0a1617-2eea-471d-ade4-4b5beeed6947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[2]/following::span[1]</value>
+      <webElementGuid>e69f4b93-661a-4325-9907-af5163856df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DML261G'])[1]/following::span[3]</value>
+      <webElementGuid>a4b3dabf-78e9-4e44-926a-c2af7112fefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[3]/preceding::span[1]</value>
+      <webElementGuid>e0e8d053-f392-41e8-868a-e23eca9de848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::span[2]</value>
+      <webElementGuid>743f0e03-8666-4c33-8324-f7a6ee68b76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to wishlist']/parent::*</value>
+      <webElementGuid>dbe9b022-1ff9-4d43-8608-70db895f7810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/span</value>
+      <webElementGuid>f7bae1ed-c4e0-458f-9fb1-a01011b9ae61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add to wishlist' or . = 'Add to wishlist')]</value>
+      <webElementGuid>625fddd3-ff34-4876-bd7f-2ffc4db544cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

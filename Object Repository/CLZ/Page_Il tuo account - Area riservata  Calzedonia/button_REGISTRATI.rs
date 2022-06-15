@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_REGISTRATI</name>
+   <tag></tag>
+   <elementGuidId>900ce3eb-1ef9-4043-bbf4-17878c5ace9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.expanded.no-margin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b69c45f7-503d-4ecd-85e8-2105db6b052a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2013b33e-857c-4d92-a4c5-d45de19f1918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button expanded no-margin</value>
+      <webElementGuid>833d4051-a50a-4aa0-ad3d-35ea8441a56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+REGISTRATI
+</value>
+      <webElementGuid>e08b4ec6-14c1-4ecf-8bf2-2dd11c5ea238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-registration-cell&quot;)/div[@class=&quot;register-form-container&quot;]/form[@class=&quot;registrationStart&quot;]/div[@class=&quot;grid-x&quot;]/button[@class=&quot;button expanded no-margin&quot;]</value>
+      <webElementGuid>0437c0ae-8000-4dda-9ef0-0e422c04051c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[5]</value>
+      <webElementGuid>47590943-eb2b-4202-b2d0-3da112242c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-registration-cell']/div/form/div[3]/button</value>
+      <webElementGuid>a8c8a2e5-4224-40cf-a6d1-4f3ac66d3ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sei già iscritto a Calzedonia Lover?'])[1]/following::button[1]</value>
+      <webElementGuid>c7895fa6-674d-4743-b392-7e8667e7b8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*E-mail'])[1]/following::button[1]</value>
+      <webElementGuid>20773d3c-9ef9-4f61-abdf-0b138cb57ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[3]/preceding::button[4]</value>
+      <webElementGuid>94649f19-ef5b-4426-b722-f6cd3f47de74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programma fedeltà Calzedonia Lover'])[2]/preceding::button[4]</value>
+      <webElementGuid>082a787f-3a81-49d6-9018-7ba93da8fa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button</value>
+      <webElementGuid>e17098f0-09e3-4741-bc50-2783cf89f07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+REGISTRATI
+' or . = '
+REGISTRATI
+')]</value>
+      <webElementGuid>30e1d1e9-8d98-4541-9a23-e3b23bdb950f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

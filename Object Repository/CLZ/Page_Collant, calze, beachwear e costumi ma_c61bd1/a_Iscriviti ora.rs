@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Iscriviti ora</name>
+   <tag></tag>
+   <elementGuidId>3e0829c5-bae1-43a5-a43c-fdb357122f06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.register.underline.uppercase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>116df8aa-4d16-4493-b5c4-71ebc25f8097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/it/login/?tab.reg=1</value>
+      <webElementGuid>34e07f18-7183-4aae-a961-1e9412b72e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>register-now</value>
+      <webElementGuid>d6a83b73-1f3c-462b-9e73-9e03ee46f212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>register underline uppercase</value>
+      <webElementGuid>0e69f275-4e7b-41d7-8393-eee2ad91b42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iscriviti ora</value>
+      <webElementGuid>bbec83b5-ef23-4dbe-8f3a-3294c928d725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal layer-login-modal tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;fix-padding&quot;]/div[@class=&quot;login-popup-footer text-center&quot;]/a[@class=&quot;register underline uppercase&quot;]</value>
+      <webElementGuid>aedcb050-639f-41b7-ab07-e353f33e374a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/div/div[2]/a</value>
+      <webElementGuid>4878011b-695f-434e-9f79-99d4d701bc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Iscriviti ora')]</value>
+      <webElementGuid>41fefee0-78f1-4665-9495-c2c4f0fd6fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sei un nuovo utente?'])[1]/following::a[1]</value>
+      <webElementGuid>f85d2f80-7970-455a-aaeb-ca3ffb3baacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::a[1]</value>
+      <webElementGuid>eb16aab4-d5fc-45b2-90c8-444e6e79ce32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chatta con noi'])[1]/preceding::a[1]</value>
+      <webElementGuid>246ba7e9-d9f6-4ddd-9626-0df92c75ecf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chiamaci'])[1]/preceding::a[2]</value>
+      <webElementGuid>722dd729-43d6-4146-8b7b-1954a156474c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iscriviti ora']/parent::*</value>
+      <webElementGuid>6a5c5eea-98db-41a1-9e04-480f6c3fcd93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/it/login/?tab.reg=1')]</value>
+      <webElementGuid>d9e3b0e5-0372-4389-84f9-aaf13fe9476b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>bd6c45d2-0182-4475-b2ac-b2245222926c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/it/login/?tab.reg=1' and @title = 'register-now' and (text() = 'Iscriviti ora' or . = 'Iscriviti ora')]</value>
+      <webElementGuid>c9f10326-d76c-4df9-b54b-56c18f77e53c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

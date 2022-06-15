@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>da874017-8592-49b2-9b9a-ec72d2ceebdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[3]/header/nav/div/div/div[3]/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.no-hover.analytic-header-icon.js-layer-login > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-signorvino-eu-Site/-/default/dwaf1169fc/images/ico-user-white.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page&quot;]/header[@class=&quot;main-header&quot;]/nav[1]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x grid-margin-x align-middle&quot;]/div[@class=&quot;cell auto grid-x align-right&quot;]/div[@class=&quot;cell medium-shrink small-2 first-for-medium-down grid-x&quot;]/div[@class=&quot;main-header-login show-for-large&quot;]/div[@class=&quot;main-header-login__dropdown&quot;]/a[@class=&quot;no-hover analytic-header-icon js-layer-login&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[3]/header/nav/div/div/div[3]/div/div/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

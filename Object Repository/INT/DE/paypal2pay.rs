@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>paypal2pay</name>
+   <tag></tag>
+   <elementGuidId>f767e7ef-d3d1-4936-b4ca-83907c6fee89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[2]/div[4]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[2]/div[4]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>f7e6b2f1-b3e6-4af9-b263-027181c5db84</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sposta nei Preferiti</name>
+   <tag></tag>
+   <elementGuidId>f3c7410f-83ce-40a7-a59d-8f03cd78ab2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[9]/div[4]/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.hide-for-small-only</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1d78f93-ae13-438c-b2f7-9e86384ec8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hide-for-small-only</value>
+      <webElementGuid>9cf6f684-4639-46a5-9412-8d6be80b2302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sposta nei Preferiti</value>
+      <webElementGuid>f06c5f62-365e-40ed-a81e-dc55374f7b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell large-8 medium-12 padding-right-60&quot;]/div[@class=&quot;cart-line-item cart-line-item--first   product-info  uuid-5756a77c9aad90090f89f4dbf6 unique-identifier-null&quot;]/div[@class=&quot;line-item-header grid-x grid-margin-x align-right&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;options-box&quot;]/a[@class=&quot;line-item-action js-move-to-wishlist&quot;]/span[@class=&quot;hide-for-small-only&quot;]</value>
+      <webElementGuid>e5fdaa8c-9dbb-4954-a605-085afe6b5c67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[9]/div[4]/div/div/a/span</value>
+      <webElementGuid>a2334da4-6b86-491a-9f2a-d19884c6c60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modifica'])[2]/following::span[1]</value>
+      <webElementGuid>093bad65-f932-4b25-a063-b7a64bb72892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DCC105D'])[1]/following::span[3]</value>
+      <webElementGuid>ee6c4029-6af8-4ea1-a301-ec8b2e272340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferiti'])[3]/preceding::span[1]</value>
+      <webElementGuid>c1ce681d-082f-47d5-84b4-c972afbe1218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elimina'])[1]/preceding::span[2]</value>
+      <webElementGuid>9934a367-3ed7-4c05-82b5-66eba9b1b074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sposta nei Preferiti']/parent::*</value>
+      <webElementGuid>41cba736-601a-4f3f-ab7f-a4aea8175a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/span</value>
+      <webElementGuid>fe193fc4-cff5-4834-8335-12a2e9ec4053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sposta nei Preferiti' or . = 'Sposta nei Preferiti')]</value>
+      <webElementGuid>2b6b5599-7e4a-42fb-811e-d40a03b808bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

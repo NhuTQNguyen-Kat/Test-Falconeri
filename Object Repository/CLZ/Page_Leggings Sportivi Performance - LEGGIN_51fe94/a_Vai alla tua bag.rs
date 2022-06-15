@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vai alla tua bag</name>
+   <tag></tag>
+   <elementGuidId>4ea34240-d1f7-49ca-ab75-a4053f874e98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='checkout-button-secure-checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkout-button-secure-checkout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>531a71b0-e41f-4cfd-9fb5-bc9ebf050338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkout-button-secure-checkout</value>
+      <webElementGuid>c9e65760-d1db-4bea-8272-2e85599c2865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test.calzedonia.com/it/cart/</value>
+      <webElementGuid>d0710821-6435-4275-8732-6e017e6d77e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button extended uppercase minicart-checkout-button</value>
+      <webElementGuid>3e0b29a6-b4ec-4485-8606-97d74799a363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>479fcd31-13d1-4cf4-abd2-e924b6d399f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c77bd26b-c38c-457a-a63c-5d3347fd398a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Vai alla tua bag
+</value>
+      <webElementGuid>2e86f274-4993-4262-8c44-35d9e0f2cbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page&quot;]/header[@class=&quot;main-header pos-relative&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;top-row grid-x&quot;]/div[@class=&quot;align-right cell shrink grid-x&quot;]/div[@class=&quot;minicart open&quot;]/div[@class=&quot;popover popover-bottom show&quot;]/div[@class=&quot;container cart promoapplied&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;small-10 checkout-continue text-center&quot;]/div[@class=&quot;checkoutButtons grid-x grid-margin-x&quot;]/div[@class=&quot;cell small-10&quot;]/a[@id=&quot;checkout-button-secure-checkout&quot;]</value>
+      <webElementGuid>5778876e-405f-460a-9efb-bc03f2206d6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='checkout-button-secure-checkout']</value>
+      <webElementGuid>1d601981-0f31-4a0a-9d50-b4ddb62178a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[3]/header/nav/div/div/div[5]/div/div[2]/div/div[5]/div/div/div/a</value>
+      <webElementGuid>1eae7f03-6963-4f56-a349-be7e25c3d9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Vai alla tua bag')]</value>
+      <webElementGuid>92a5d368-7a9c-4627-8de9-1f79132e8020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XS'])[1]/following::a[1]</value>
+      <webElementGuid>dd28a067-91e9-4958-b360-a39c9e3b7e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€35.95'])[1]/following::a[1]</value>
+      <webElementGuid>a114fb6d-04f8-462c-a0bf-bfbaaf20faa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>f3daaced-b2cd-485a-bdd7-6c67faa8058b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[1]</value>
+      <webElementGuid>5bb07bbb-1245-4f11-8154-5b1deea057a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vai alla tua bag']/parent::*</value>
+      <webElementGuid>234a87fb-7a53-4b51-b77b-42e78abac81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://test.calzedonia.com/it/cart/')])[2]</value>
+      <webElementGuid>23d57a5f-99d7-46ea-be69-ace15bd17dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/a</value>
+      <webElementGuid>c0f7c21b-6105-4d54-8266-95aa2e71b250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'checkout-button-secure-checkout' and @href = 'https://test.calzedonia.com/it/cart/' and (text() = '
+Vai alla tua bag
+' or . = '
+Vai alla tua bag
+')]</value>
+      <webElementGuid>2e48eb4e-290f-4189-a2b6-db0aaa81e1ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

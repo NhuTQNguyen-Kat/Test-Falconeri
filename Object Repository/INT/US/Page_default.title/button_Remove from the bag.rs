@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Remove from the bag</name>
+   <tag></tag>
+   <elementGuidId>244e7c87-2e77-4db7-af28-1b9cdb80d1da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button-secondary.wide.cart-delete-confirmation-btn.ae-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8941f970-9570-4867-8a7e-3afa39b8696e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>be01a514-b803-475d-8f8f-3a2dbba4bfb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-secondary wide cart-delete-confirmation-btn ae-button</value>
+      <webElementGuid>f5a41b4a-19b5-4ce0-9069-46bb163ee1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>4de28bb7-2454-47c3-a049-5e0630bc7492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ae-blurbtype</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ad76e3e-ced3-4176-8000-a69614b9d945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ae-form-field</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3cc8d5ff-003f-4981-a4f2-bcd25a8789a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Remove from the bag
+</value>
+      <webElementGuid>54298ac4-109b-4381-a559-cf536440be76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;ls-tab-off fpls-js ae-lang-en ae-device-desktop ae-launcher tingle-enabled&quot;]/div[@class=&quot;tingle-modal cart-remove-product tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer grid-x grid-margin-x&quot;]/div[@class=&quot;cell medium-5 confirm-delete-button&quot;]/button[@class=&quot;button button-secondary wide cart-delete-confirmation-btn ae-button&quot;]</value>
+      <webElementGuid>b11a6777-7cd1-4fab-be81-4fb3944f7a12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>9fe5da8f-0a33-4af4-96e5-5264517ca400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[4]/div[2]/button</value>
+      <webElementGuid>742dc96e-b5fa-4e41-bb2f-ffa2dfcc9ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO WISHLIST'])[1]/following::button[1]</value>
+      <webElementGuid>58e41078-a63e-470d-bd99-bf7e5003c662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to remove this item?'])[1]/following::button[3]</value>
+      <webElementGuid>0d8d1e90-9476-4e02-a12e-e258c0d174cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[1]</value>
+      <webElementGuid>b20cdc21-d7e2-4c5e-a466-d7f9dd6a83c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[1]</value>
+      <webElementGuid>4172f152-fa1a-4077-be06-77cee74ab8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove from the bag']/parent::*</value>
+      <webElementGuid>3d2b6b4c-352d-4d28-bd7d-06019e027466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>603ac427-9946-4380-b635-ff3e4fdbe4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+Remove from the bag
+' or . = '
+Remove from the bag
+')]</value>
+      <webElementGuid>ccfa73bc-e847-456d-ba5f-beebaa91544e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

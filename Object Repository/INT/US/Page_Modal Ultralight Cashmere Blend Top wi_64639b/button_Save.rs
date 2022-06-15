@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>f0c12b57-3473-45b9-9ebd-506f3b6b4c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='setInputLocaleCountry']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#setInputLocaleCountry</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>36a3f466-d0b9-4532-9a8a-9f1672a989b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-href</name>
+      <type>Main</type>
+      <value>/on/demandware.store/Sites-intimissimi-us-Site/en_US/Page-SetLocale</value>
+      <webElementGuid>7742a270-fb31-4bb2-90d4-bbc7d449c4b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>setInputLocaleCountry</value>
+      <webElementGuid>bad1f3e3-baaf-44ec-a9ba-0fb7e46af9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button buttonDim action-change js-country-line</value>
+      <webElementGuid>03f04f77-65dd-4f45-9ba3-763fe80e4dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-locale</name>
+      <type>Main</type>
+      <value>en_US</value>
+      <webElementGuid>6c15d795-a717-4450-af7b-affa16c2a476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-currency</name>
+      <type>Main</type>
+      <value>/on/demandware.store/Sites-intimissimi-us-Site/en_US/Page-SetLocale</value>
+      <webElementGuid>64da2dfc-ad34-4bcd-80cf-ce1884bb4f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Save
+</value>
+      <webElementGuid>e7bbcac4-63af-4a7e-9e96-b4b76a1db792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;setInputLocaleCountry&quot;)</value>
+      <webElementGuid>2a85a00b-463c-408b-b0e5-826e54926eea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='setInputLocaleCountry']</value>
+      <webElementGuid>b91f9c8f-2d10-4b9e-b263-2abb531d091e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Multilanguage']/div/div[3]/div/button</value>
+      <webElementGuid>bbd3b4bf-9f74-4037-9cdc-f666f3eb4ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to the world of Intimissimi USA'])[1]/following::button[1]</value>
+      <webElementGuid>6da3484a-af6f-4de1-87b6-a7437677f213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::button[1]</value>
+      <webElementGuid>4bec3560-2e13-4f30-9f55-6eb924db0b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[3]</value>
+      <webElementGuid>36dbc934-880c-409e-b33d-31a652c8a6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>3caabe2b-9dc0-42de-8cc8-13d014e5a959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3d3ab3b4-1e8e-4794-ae83-d1c0bb4c9b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'setInputLocaleCountry' and (text() = '
+Save
+' or . = '
+Save
+')]</value>
+      <webElementGuid>3dfb97f1-a289-4d79-b2aa-1a00d977960a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FLC - Log In Out</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0267c473-9bb2-49a5-bb3a-1d1f448f745b</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb36ffe2-b0d2-4f14-a1d8-b30ac63dc986</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/AT - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>685c11d2-dc64-4f1d-9831-cc6230f038d3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/DE - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>87eb3ff9-8a28-4e14-b385-867549853fa2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/ES - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a8a766ee-7da2-4205-9f46-fd3f017b2d94</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/FR - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>30340bd4-690a-4f5c-959b-50f17fd6510a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/IT - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1ffb4a7e-ca4b-4b52-91f9-a504f8a59817</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/JP - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c16c1c39-8282-44f2-9329-89c43c71632c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/NL - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>65fd1d55-1ed9-4f43-85a4-f92c5cf743e5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/PT - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b87ed48e-eb84-4054-a721-bb96a7a06e0a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/UK - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>aa272869-8aa0-4e6b-8796-d64a7936fc16</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FLC/Log in and out/US - Log In Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fd48fbe-7a0b-4142-846a-5d5b5351472c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

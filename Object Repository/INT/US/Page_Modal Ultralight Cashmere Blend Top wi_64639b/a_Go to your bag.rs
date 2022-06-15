@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go to your bag</name>
+   <tag></tag>
+   <elementGuidId>a298f75e-012b-495d-a354-578b427844c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='checkout-button-secure-checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkout-button-secure-checkout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>003a509d-4ac7-43ad-a87d-922ae16d226e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkout-button-secure-checkout</value>
+      <webElementGuid>ffa72951-f333-4043-9787-0c6833fced38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test.intimissimi.com/us/cart/</value>
+      <webElementGuid>b01433a7-782e-4ab7-aae9-917e70c4ecdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button extended uppercase minicart-checkout-button</value>
+      <webElementGuid>caf47ef9-d155-4b3a-8910-ffa3fb62dee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>077d74d6-7e7b-4f2a-aee5-34de9345a997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ac5be830-bb5f-4613-bc48-da5b010247ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Go to your bag
+</value>
+      <webElementGuid>e5286f51-6684-45d4-8634-d351e170dfa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off ae-lang-en ae-device-desktop ae-launcher&quot;]/div[@class=&quot;page&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x menu-top-grid&quot;]/div[@class=&quot;main-header-wrap secondary-menu-wrap cell small-3 grid-x&quot;]/div[@class=&quot;ico-header-menu&quot;]/div[@class=&quot;main-header-login first-level&quot;]/div[@class=&quot;minicart open&quot;]/div[@class=&quot;popover popover-bottom show&quot;]/div[@class=&quot;container cart analytics-mini-cart promoapplied&quot;]/div[@class=&quot;grid-x button-grid-minicart&quot;]/div[@class=&quot;small-10 checkout-continue text-center&quot;]/div[@class=&quot;checkoutButtons grid-x&quot;]/a[@id=&quot;checkout-button-secure-checkout&quot;]</value>
+      <webElementGuid>0e5f54a4-6ded-40c9-a7f8-d950e740276c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='checkout-button-secure-checkout']</value>
+      <webElementGuid>81479204-4bf5-49d6-a4fe-a4f4897e1834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[3]/header/nav/div/div/div[3]/div/div[2]/div[4]/div[2]/div/div[4]/div/div/a</value>
+      <webElementGuid>8ccef0dd-b098-46e2-9b9b-f6af9abda0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Go to your bag')]</value>
+      <webElementGuid>e2557f0f-e9de-40bb-9c2f-8f1238cba418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations! You have obtained Free Shipping over $75'])[1]/following::a[1]</value>
+      <webElementGuid>654bd36e-d437-41ae-8f6e-8acb6ac8078d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete your look'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5e25d15-1623-4c5e-ac20-5dc6c8a4d5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coming soon'])[1]/preceding::a[1]</value>
+      <webElementGuid>ccaeeba8-5c8a-44d7-996c-a17f2e4144a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go to your bag']/parent::*</value>
+      <webElementGuid>c5fda667-399f-4630-b47b-51177e0273aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://test.intimissimi.com/us/cart/')])[2]</value>
+      <webElementGuid>a9c19d91-f49d-43b1-8d90-864619a741e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div/a</value>
+      <webElementGuid>d19ae425-0587-4a7e-aba0-2acccabb8e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'checkout-button-secure-checkout' and @href = 'https://test.intimissimi.com/us/cart/' and (text() = '
+Go to your bag
+' or . = '
+Go to your bag
+')]</value>
+      <webElementGuid>ae0a6e38-4e6f-4eb4-8ab1-48c79246ffe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

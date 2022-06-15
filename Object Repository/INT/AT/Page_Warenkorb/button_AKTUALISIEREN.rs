@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AKTUALISIEREN</name>
+   <tag></tag>
+   <elementGuidId>7dbf2694-7b99-4eb6-a37a-94719562c7d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[2]/div/div[2]/section/div[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.update-cart-product-global.button.button-primary.expanded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9a2f4098-e2e5-4c99-aa2a-686ae3049505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>update-cart-product-global button button-primary expanded</value>
+      <webElementGuid>8d6723b7-feef-4b4b-9fd9-445b5da45165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pid</name>
+      <type>Main</type>
+      <value>LTD28Q   231IS</value>
+      <webElementGuid>a9f392fb-7619-40d9-b6f1-9b675bd9cd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f5c54826-79bb-42a0-8faa-3a21643cda6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            AKTUALISIEREN
+        </value>
+      <webElementGuid>f33b98d7-324f-4d88-9613-c5fc7101025b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal quickview-modal tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;product-quickview product-quickview--get-product product-variant col product-wrapper product-detail product-detail-keeper&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;cell small-5&quot;]/div[@class=&quot;margin-wrapper-description&quot;]/div[@class=&quot;detail-panel&quot;]/section[@class=&quot;attributes&quot;]/div[@class=&quot;row cart-and-ipay&quot;]/div[@class=&quot;col-sm-12&quot;]/button[@class=&quot;update-cart-product-global button button-primary expanded&quot;]</value>
+      <webElementGuid>5c2a8792-87a2-4e18-a847-5b5dfea706f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[2]/div/div[2]/section/div[4]/div/button</value>
+      <webElementGuid>06e6964c-0aae-4858-8bf0-dd463879cfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dieser Artikel trifft bald ein, speichern Sie ihn in Ihrer Wunschliste'])[1]/following::button[1]</value>
+      <webElementGuid>6965c8b7-6652-492b-8667-959b28d66902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>4c8aab6d-c778-40b7-ae02-b1d43fe5d6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[1]</value>
+      <webElementGuid>4a2fe88c-47c2-4da2-b6ed-1f5b67f15b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::button[2]</value>
+      <webElementGuid>08e2d66a-84a3-4686-adee-da8f60a2df8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AKTUALISIEREN']/parent::*</value>
+      <webElementGuid>65c6b69d-3ddb-444b-b67e-d37c6966f0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>1a243d9e-e75b-425c-a857-9a136051368b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+            AKTUALISIEREN
+        ' or . = '
+            AKTUALISIEREN
+        ')]</value>
+      <webElementGuid>9f135204-7498-497b-a978-8450751c565b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

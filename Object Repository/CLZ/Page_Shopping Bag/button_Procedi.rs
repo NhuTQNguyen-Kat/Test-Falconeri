@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Procedi</name>
+   <tag></tag>
+   <elementGuidId>6542c471-30a1-4621-8f96-7ed16c23633b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='checkout-button-secure-checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkout-button-secure-checkout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93081d85-60ac-41db-9285-7da9f4d59a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test.calzedonia.com/it/checkoutflow/</value>
+      <webElementGuid>6048a989-97a1-47dc-854c-9610eaf3286c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button checkout-btn</value>
+      <webElementGuid>92f5074f-f987-4c79-8610-81399050d731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href='https://test.calzedonia.com/it/checkoutflow/'</value>
+      <webElementGuid>2ca1f0ba-aef3-4aa7-b8bc-8e74f018b0a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>994996bc-bc7b-4bfc-ab55-5a9251b4518c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5e204837-bc4f-4159-8be3-5c04230ce12a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkout-button-secure-checkout</value>
+      <webElementGuid>05bd037c-9fb5-4f2c-a5e1-8dcc842dcaf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Procedi
+</value>
+      <webElementGuid>bc66e6b3-c025-4462-a5bb-06df6b39dd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container grid-checkout-eu&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell medium-4 cart-summary-actions&quot;]/div[@class=&quot;checkout-continue show-for-large&quot;]/div[@class=&quot;checkout-buttons&quot;]/div[@class=&quot;grid-x grid-x align-right align-middle&quot;]/div[@class=&quot;cell small-12 text-right grid-x grid-buttons&quot;]/div[@class=&quot;cell small-12&quot;]/button[@id=&quot;checkout-button-secure-checkout&quot;]</value>
+      <webElementGuid>fb7c2cf4-70d9-4a71-92dc-f39b71ae9ace</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='checkout-button-secure-checkout']</value>
+      <webElementGuid>ef6dba5c-4017-4368-b74e-85bde5a14488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[2]/div[4]/div[2]/div[2]/div[3]/div/div/div/div/button</value>
+      <webElementGuid>fce01cc7-b323-4559-aabd-1d985b3f5fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cookie policy'])[2]/following::button[1]</value>
+      <webElementGuid>dbac26ca-0351-40b1-a25e-e15ccb51c0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='privacy policy'])[2]/following::button[1]</value>
+      <webElementGuid>73f7ca13-50d1-4ab8-9766-50957085128e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oppure'])[1]/preceding::button[1]</value>
+      <webElementGuid>7f51c526-9c62-4e8d-adc5-f7105d21e5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hai un codice promozionale?'])[1]/preceding::button[3]</value>
+      <webElementGuid>ff21f541-ec3c-4df7-93cc-642343986887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procedi']/parent::*</value>
+      <webElementGuid>1fddc106-f1c6-4941-b2ba-786a4d12c737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button</value>
+      <webElementGuid>43e3a66f-c41d-4803-b451-b82d05c4813c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'https://test.calzedonia.com/it/checkoutflow/' and @id = 'checkout-button-secure-checkout' and (text() = '
+Procedi
+' or . = '
+Procedi
+')]</value>
+      <webElementGuid>0316e591-2b00-45f6-9b7f-e4063ead3173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

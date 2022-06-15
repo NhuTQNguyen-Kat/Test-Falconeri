@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>XpathPPv2</name>
+   <tag></tag>
+   <elementGuidId>a0ac4469-5742-4d2b-8bf0-983318ef106e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[3]/div[2]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

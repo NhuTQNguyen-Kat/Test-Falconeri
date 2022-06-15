@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>payPP</name>
+   <tag></tag>
+   <elementGuidId>fe2be4d3-0cdc-4a22-87cb-d3530987c658</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[13]/div[2]/form/fieldset/div[2]/ul/div[3]/div[2]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[13]/div[2]/form/fieldset/div[2]/ul/div[3]/div[2]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>0b9cdd45-2c28-4215-b60d-9c8ceb2ba041</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

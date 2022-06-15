@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pejt do koku</name>
+   <tag></tag>
+   <elementGuidId>dac0942f-1f20-462a-aa13-99c646615b4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='checkout-button-secure-checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkout-button-secure-checkout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb0f61ed-399c-4714-ae8e-67ae4527684c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkout-button-secure-checkout</value>
+      <webElementGuid>3eabaa76-8e64-45fd-8e42-99df2354cf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test.intimissimi.com/cz/cart/</value>
+      <webElementGuid>12743ba1-1030-4009-82c0-a0bdf70fd9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button extended uppercase minicart-checkout-button</value>
+      <webElementGuid>37e43d26-3b69-4fda-a073-a3ddfc1c237f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3374c30d-867e-4ab0-ac28-0107470bb2de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>87f8d729-7bfc-45e0-a4f7-5b93030b91e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Přejít do košíku
+</value>
+      <webElementGuid>6033a171-1d75-4a21-9f98-6db2f0af0fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x menu-top-grid&quot;]/div[@class=&quot;main-header-wrap secondary-menu-wrap cell small-3 grid-x&quot;]/div[@class=&quot;ico-header-menu&quot;]/div[@class=&quot;main-header-login first-level&quot;]/div[@class=&quot;minicart open&quot;]/div[@class=&quot;popover popover-bottom show&quot;]/div[@class=&quot;container cart analytics-mini-cart approaching&quot;]/div[@class=&quot;grid-x button-grid-minicart&quot;]/div[@class=&quot;small-10 checkout-continue text-center&quot;]/div[@class=&quot;checkoutButtons grid-x&quot;]/a[@id=&quot;checkout-button-secure-checkout&quot;]</value>
+      <webElementGuid>1a82eca7-f70e-4933-b1ea-e6cc751cf8b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='checkout-button-secure-checkout']</value>
+      <webElementGuid>fea23931-0e7b-4659-abeb-c67747397d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[3]/header/nav/div/div/div[3]/div/div[2]/div[4]/div[2]/div/div[4]/div/div/a</value>
+      <webElementGuid>3c93f886-9818-4b06-a9fc-16e8141f0d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Přejít do košíku')]</value>
+      <webElementGuid>233de812-8f4e-4322-95ff-862e0dd35a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chybí vám ještě Kč 253,00 k získání Doprava zdarma 2050 Kč'])[1]/following::a[1]</value>
+      <webElementGuid>26b5141d-cac5-4e7d-a18a-bff8f197c56a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokonči svůj look'])[1]/preceding::a[1]</value>
+      <webElementGuid>41f23b24-b16f-4238-93ff-3bc00db2e1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Příchozí zboží'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e130757-a2b7-4ce0-b354-749e65971738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Přejít do košíku']/parent::*</value>
+      <webElementGuid>4fc96680-38c3-4760-8902-3710e044cf62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://test.intimissimi.com/cz/cart/')])[2]</value>
+      <webElementGuid>1c33883c-94db-494b-8d0f-fbd127a9a084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div/a</value>
+      <webElementGuid>3bbc9beb-81f1-4147-8ede-3be31b32ecaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'checkout-button-secure-checkout' and @href = 'https://test.intimissimi.com/cz/cart/' and (text() = '
+Přejít do košíku
+' or . = '
+Přejít do košíku
+')]</value>
+      <webElementGuid>4069fd2e-ddfa-4695-8cf4-c5569ac64b8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

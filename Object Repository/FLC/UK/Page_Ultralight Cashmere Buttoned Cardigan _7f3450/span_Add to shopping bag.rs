@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add to shopping bag</name>
+   <tag></tag>
+   <elementGuidId>4a48a36e-a416-4137-bd74-5bdd122e9d39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='descriptionSidebar']/div/div[5]/div[4]/div/div/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.addtocart-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c093b351-6111-4c71-bf34-a7c42b393d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addtocart-text</value>
+      <webElementGuid>6157c38c-0c84-4c24-9a08-636807fe928c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to shopping bag</value>
+      <webElementGuid>27e38353-488c-40ec-8900-46f709e967a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;descriptionSidebar&quot;)/div[@class=&quot;cell large-offset-1 large-9 grid-y&quot;]/div[@class=&quot;product-sidebar-section&quot;]/div[@class=&quot;cell add-to-cart-actions show-for-large&quot;]/div[@class=&quot;cart-and-ipay&quot;]/div[@class=&quot;grid-x grid-margin-x&quot;]/button[@class=&quot;cell auto add-to-cart button button-addtocart&quot;]/span[@class=&quot;addtocart-content-text&quot;]/span[@class=&quot;addtocart-text&quot;]</value>
+      <webElementGuid>91df6c7b-5489-44cf-b16a-df8a8dd498a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='descriptionSidebar']/div/div[5]/div[4]/div/div/button/span/span</value>
+      <webElementGuid>041582d9-7a85-4cd3-933c-704030b486b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::span[2]</value>
+      <webElementGuid>1fc3ce36-2a39-43fe-9fda-32d82180118e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[2]</value>
+      <webElementGuid>51078dc6-c70b-4feb-9b99-80f8937d861a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customise'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef04d22e-87ee-45dd-adf9-e2992b453a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select size:'])[9]/preceding::span[2]</value>
+      <webElementGuid>7544173c-0e8e-4c09-a474-3ea69edf8aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to shopping bag']/parent::*</value>
+      <webElementGuid>70befb0f-3b3e-47f9-90d3-41f93b9c707b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>a808bf39-7813-426a-8442-4c62a1f7a10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add to shopping bag' or . = 'Add to shopping bag')]</value>
+      <webElementGuid>ee681808-fba6-40b3-8a91-33ca5fbc4497</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

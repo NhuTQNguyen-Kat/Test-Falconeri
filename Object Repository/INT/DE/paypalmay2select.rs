@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>paypalmay2select</name>
+   <tag></tag>
+   <elementGuidId>ca0b3dbd-f363-4d87-bb0c-befc12af9555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[2]/div[1]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[2]/div[1]/label/input</value>
+      <webElementGuid>fbbb59e4-bc57-47d9-a8b6-e7a5610a694e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

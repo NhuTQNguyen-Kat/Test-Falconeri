@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>555ad8bc-8e3e-44a9-849a-80fa6875f79e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//use[@href = '/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1654003812778/images/sprite.svg#più']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>43f0764c-1149-4004-97ef-d751451aea48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1654003812778/images/sprite.svg#più</value>
+      <webElementGuid>edb3d0ad-6aa8-4ecc-8403-d7d841a56604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal quickview-modal tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;product-quickview product-quickview--get-product product-variant col product-wrapper product-detail product-detail-keeper&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;cell auto&quot;]/div[@class=&quot;margin-wrapper-description&quot;]/div[@class=&quot;detail-panel quickViewModal&quot;]/section[@class=&quot;attributes&quot;]/div[@class=&quot;grid-x grid-margin-x js-pickable-content-mobile-container-v&quot;]/div[@class=&quot;cell small-10&quot;]/div[@class=&quot;grid-x grid-margin-x js-select-size-for-mobile&quot;]/div[@class=&quot;cell small-8 attribute-container container-flex-desktop-quantity-message quantity&quot;]/div[@class=&quot;text-left&quot;]/span[@class=&quot;quantityButtons&quot;]/button[@class=&quot;quantity-button no-margin&quot;]/i[@class=&quot;icon&quot;]/svg[@class=&quot;small&quot;]/use[1]</value>
+      <webElementGuid>cbd9955d-2233-4765-a9b3-351d19079177</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1654003812778/images/sprite.svg#più']</value>
+      <webElementGuid>cdaffe09-379f-4734-840e-8c7cb31ee78f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

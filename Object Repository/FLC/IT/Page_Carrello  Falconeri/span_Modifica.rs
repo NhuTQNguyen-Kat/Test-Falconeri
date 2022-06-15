@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Modifica</name>
+   <tag></tag>
+   <elementGuidId>c9f5c3d5-6606-46bc-ac51-fe9d8f580651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[9]/div[4]/div/div/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.edit > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d47738cd-f393-4541-ac8d-646be0a1a8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modifica</value>
+      <webElementGuid>40543d84-f071-4b8f-80f9-1281bba50419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell large-8 medium-12 padding-right-60&quot;]/div[@class=&quot;cart-line-item  cart-line-item--last  product-info  uuid-67af848117ddb0c246465386f0 unique-identifier-null&quot;]/div[@class=&quot;line-item-header grid-x grid-margin-x align-right&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;options-box&quot;]/span[@class=&quot;line-item-action product-edit&quot;]/a[@class=&quot;edit&quot;]/span[1]</value>
+      <webElementGuid>cbb32233-eeb3-44ef-bce0-94807637f0e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[9]/div[4]/div/div/span/a/span</value>
+      <webElementGuid>0a5c894b-97d0-47f7-bf4a-409545df645e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DCC105D'])[1]/following::span[2]</value>
+      <webElementGuid>4f65b8f0-aed5-412e-b472-90644242b893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XS'])[1]/following::span[3]</value>
+      <webElementGuid>64154918-cc51-49f2-b514-fe9eed371b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sposta nei Preferiti'])[1]/preceding::span[1]</value>
+      <webElementGuid>8b65f92b-dc9b-4dbf-ac56-6c38a79711bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferiti'])[3]/preceding::span[2]</value>
+      <webElementGuid>3031b46c-61f7-4e31-98e4-54c11c4e5b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/span/a/span</value>
+      <webElementGuid>b7b1a01f-7116-4af9-b2ec-989e7b0e995c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Modifica' or . = 'Modifica')]</value>
+      <webElementGuid>4c14787b-e5e3-466d-a76e-4cb1c0ada7aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

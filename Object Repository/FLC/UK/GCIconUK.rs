@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GCIconUK</name>
+   <tag></tag>
+   <elementGuidId>5274d8a3-da38-4485-a03f-fbe72eefafa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/footer/div[1]/div/div/div/div[4]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/footer/div[1]/div/div/div/div[4]/a/img</value>
+      <webElementGuid>6e62d924-e190-4097-bb44-e1952d41f16a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

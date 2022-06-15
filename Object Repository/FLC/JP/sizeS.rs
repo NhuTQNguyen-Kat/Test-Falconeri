@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sizeS</name>
+   <tag></tag>
+   <elementGuidId>b2715ece-2c35-4ac9-900a-9f4ef0ac08a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[3]/div[5]/div[3]/div[1]/div[1]/div[5]/div[3]/div[1]/div[2]/div/div/div[2]/div/div/div/label[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

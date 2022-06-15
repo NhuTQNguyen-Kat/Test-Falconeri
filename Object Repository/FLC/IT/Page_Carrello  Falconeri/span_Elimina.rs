@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Elimina</name>
+   <tag></tag>
+   <elementGuidId>9890ae2b-1093-44e4-90a0-df7a5ceccda8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[9]/div[4]/div/div/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.regular.font-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17c94f76-3250-4f41-b375-ad22f096055c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>regular font-normal</value>
+      <webElementGuid>6c8e1899-f4fe-4b24-946a-b1c52e4ced51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elimina</value>
+      <webElementGuid>8426a138-210e-48b8-bc06-40e196449f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page--full&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;cart cart-page grid-x grid-margin-x js-modal-cta-label&quot;]/div[@class=&quot;cell large-8 medium-12 padding-right-60&quot;]/div[@class=&quot;cart-line-item    product-info  uuid-db6a42d358224d275f4446a15f unique-identifier-null&quot;]/div[@class=&quot;line-item-header grid-x grid-margin-x align-right&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;options-box&quot;]/button[@class=&quot;line-item-action remove-btn remove-product btn btn-light&quot;]/span[@class=&quot;remove-icon&quot;]/span[@class=&quot;regular font-normal&quot;]</value>
+      <webElementGuid>b8e68c8c-2563-4ca1-8311-756181ee832e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[4]/div[6]/div[3]/div/div[9]/div[4]/div/div/button/span/span</value>
+      <webElementGuid>30aed781-4ff5-4762-9126-4f79dded80bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferiti'])[3]/following::span[2]</value>
+      <webElementGuid>b253286e-933a-481a-974f-d1d311aca634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sposta nei Preferiti'])[1]/following::span[3]</value>
+      <webElementGuid>f913be4c-774a-40ba-82be-3751f1b39974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sei sicuro di voler eliminare questo prodotto?'])[1]/preceding::span[1]</value>
+      <webElementGuid>f2c8fcd1-1360-4dd6-87a9-f5190a5faad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elimina'])[2]/preceding::span[2]</value>
+      <webElementGuid>837e5a37-c73e-4e82-bb22-45a48355c968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Elimina']/parent::*</value>
+      <webElementGuid>f941479c-23ea-4642-bcf5-b1455935d8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>c759a740-96cf-4d1a-b2f0-9ae01ce0144a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Elimina' or . = 'Elimina')]</value>
+      <webElementGuid>60692a9d-8ca2-49d0-b957-01e46fba9082</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

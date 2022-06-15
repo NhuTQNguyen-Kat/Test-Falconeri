@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PayPolXpath</name>
+   <tag></tag>
+   <elementGuidId>12023d24-9357-46b2-9681-d52fdbf4a263</elementGuidId>
+   <imagePath>C:\Users\SmiciklasK\Downloads\paypalLogo.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\SmiciklasK\Downloads\paypalLogo.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[4]/div[4]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[4]/div[2]/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[1]/div[3]/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[4]/div[4]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>2ab670d9-9af8-44d2-952e-a1dcda1edb2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

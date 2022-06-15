@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>4dcee13d-7b68-421c-aae9-8958a0d762fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.close-popover-icon.text-white.js-close-button > i > svg > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>c6ab270f-7f0a-4747-bbd7-5ef12920fe47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-falconeri-eu-Site/-/en_GB/v1654248992008/images/sprite.svg#ico-close</value>
+      <webElementGuid>3c6f0d40-711b-4a9b-bb10-515bc9550b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off minicart-is-open&quot;]/div[@class=&quot;page&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x align-middle&quot;]/div[@class=&quot;main-header-wrap secondary-menu-wrap cell large-5 auto large-order-3 small-order-2&quot;]/div[@class=&quot;ico-header-menu&quot;]/div[@class=&quot;main-header-login first-level navigation&quot;]/div[@class=&quot;minicart open&quot;]/div[@class=&quot;popover popover-bottom show&quot;]/div[@class=&quot;container cart analytics-mini-cart&quot;]/div[@class=&quot;bg-tuscany rect-added-to-cart&quot;]/span[@class=&quot;close-popover-icon text-white js-close-button&quot;]/i[1]/svg[1]/use[1]</value>
+      <webElementGuid>f4545d56-8b81-47e5-81e1-26de8987a30c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_S_radio-input</name>
+   <tag></tag>
+   <elementGuidId>22def3b8-a317-454d-aba8-bed2768a1212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cell.form-group.error-inside.grid-x.personalized-news-container > div.cell.large-3.small-5.text-right > div.mobile-flex-fields > div.right-align.right-align-cell > label.boolean-field.no-margin.pr-0 > span.radio-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[2]/div[4]/div/div/form/div[4]/div[3]/div[2]/div/div/label[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43a37b12-d059-4aae-82a0-8dd0b1daf7a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-input</value>
+      <webElementGuid>5798b9f4-de9d-40e9-adea-89f530978d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;ls-tab-off&quot;]/div[@class=&quot;page page--full page--login&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x align-center&quot;]/div[@class=&quot;cell large-7&quot;]/form[@class=&quot;registration registration-step-final&quot;]/div[@class=&quot;form-group error-inside grid-x policy-register-form&quot;]/div[@class=&quot;cell form-group error-inside grid-x personalized-news-container&quot;]/div[@class=&quot;cell large-3 small-5 text-right&quot;]/div[@class=&quot;mobile-flex-fields&quot;]/div[@class=&quot;right-align right-align-cell&quot;]/label[@class=&quot;boolean-field no-margin pr-0&quot;]/span[@class=&quot;radio-input&quot;]</value>
+      <webElementGuid>f21eedc6-8034-4f3b-863d-6ce26cfa0a59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[2]/div[4]/div/div/form/div[4]/div[3]/div[2]/div/div/label[2]/span</value>
+      <webElementGuid>9790f39c-4ef6-4e01-8617-88e7afef7a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/label[2]/span</value>
+      <webElementGuid>2bf34457-6d66-40b2-b059-925ce24b201f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

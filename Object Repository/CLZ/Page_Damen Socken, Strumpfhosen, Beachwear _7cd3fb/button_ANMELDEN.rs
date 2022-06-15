@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ANMELDEN</name>
+   <tag></tag>
+   <elementGuidId>c99f4fef-f98f-416a-9b64-19db0c3b5734</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.extended.js-open-bigpopup</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='newsletter-minipopup']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6745ca7b-dfe0-46d2-a0ac-680657d4e001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button extended js-open-bigpopup</value>
+      <webElementGuid>4e159832-979f-4125-b3df-f9262c6070d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANMELDEN</value>
+      <webElementGuid>c1cc7275-e813-4e8b-beae-e90d4f21205c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newsletter-minipopup&quot;)/button[@class=&quot;button extended js-open-bigpopup&quot;]</value>
+      <webElementGuid>d84ec351-31b6-4e74-9e8d-aaae782b60ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newsletter-minipopup']/button</value>
+      <webElementGuid>dd7d03b2-4e9a-4960-98db-2231897fd8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melde Dich'])[1]/following::button[1]</value>
+      <webElementGuid>7b5e45d2-8280-4795-9be3-08648ac4461c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karriere'])[1]/following::button[1]</value>
+      <webElementGuid>724c3c2f-da5e-4e76-8c69-ca3d7b3abaef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[8]/preceding::button[2]</value>
+      <webElementGuid>6185d5e0-1dac-4711-bd2a-10753a157237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Größe auswählen'])[2]/preceding::button[3]</value>
+      <webElementGuid>8f2f7810-6f08-4dd7-8b3c-1058d22ae315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ANMELDEN']/parent::*</value>
+      <webElementGuid>b439a051-1e93-47e0-9259-e3c87de0b0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>683e73bf-115a-4056-a2dd-7575937cd80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'ANMELDEN' or . = 'ANMELDEN')]</value>
+      <webElementGuid>0e3a42fa-ddbd-412a-ae51-c4ebcae8ecda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

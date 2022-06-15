@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Desidero ricevere novit e promozioni_r_b6889d</name>
+   <tag></tag>
+   <elementGuidId>00c8aa77-4026-4bba-ad8b-29189e1000b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.boolean-field.no-margin > span.radio-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div[2]/div[4]/div/div/form/div[4]/div/div[2]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d19a04cf-6f28-43a0-83c9-7f522441a028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-input</value>
+      <webElementGuid>8c18400c-701e-45ab-921f-2002505392fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;ls-tab-off&quot;]/div[@class=&quot;page page--full page--login&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x align-center&quot;]/div[@class=&quot;cell large-7&quot;]/form[@class=&quot;registration registration-step-final&quot;]/div[@class=&quot;form-group error-inside grid-x policy-register-form&quot;]/div[@class=&quot;cell form-group error-inside grid-x&quot;]/div[@class=&quot;cell large-3 small-5 text-right&quot;]/div[@class=&quot;mobile-flex-fields&quot;]/div[@class=&quot;right-align right-align-cell&quot;]/label[@class=&quot;boolean-field no-margin&quot;]/span[@class=&quot;radio-input&quot;]</value>
+      <webElementGuid>6f7d54bd-956f-40b9-bfb9-1733139fc681</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[2]/div[4]/div/div/form/div[4]/div/div[2]/div/div/label/span</value>
+      <webElementGuid>591ec556-6fd5-4450-922c-f3f51b5ce0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label/span</value>
+      <webElementGuid>7e016353-b534-486f-8e5c-6e070feacc39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

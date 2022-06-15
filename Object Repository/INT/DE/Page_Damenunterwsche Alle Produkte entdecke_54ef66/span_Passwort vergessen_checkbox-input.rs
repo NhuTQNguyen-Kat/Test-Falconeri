@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Passwort vergessen_checkbox-input</name>
+   <tag></tag>
+   <elementGuidId>fe165dda-a308-4b2c-80f9-e5f7b14d58a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div/div/div/form/div/div[2]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkbox-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal layer-login-modal tingle-modal--visible wrapperModalLogin&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/form[@class=&quot;login&quot;]/div[@class=&quot;login-form-container&quot;]/div[@class=&quot;login-forgot-password-save-access&quot;]/label[@class=&quot;boolean-field login-save-access no-padding&quot;]/span[@class=&quot;checkbox-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/form/div/div[2]/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

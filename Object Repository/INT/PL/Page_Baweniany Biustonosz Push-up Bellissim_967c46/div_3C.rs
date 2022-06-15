@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3C</name>
+   <tag></tag>
+   <elementGuidId>edb32943-9b84-4bad-92a4-e355b5007108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='descriptionSidebar']/div[3]/div/div[2]/div/div[2]/div/div[2]/div/label[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea0696aa-1d8e-43ab-8b42-f09edd2e864a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-label</value>
+      <webElementGuid>03515a7f-4594-4a3d-96c0-00c8e09bc95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+3C
+</value>
+      <webElementGuid>313734c6-26d8-4f2a-b583-6cb3caa841a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;descriptionSidebar&quot;)/div[@class=&quot;grid-x grid-margin-x js-pickable-content-desktop-container&quot;]/div[@class=&quot;cell small-10&quot;]/div[@class=&quot;grid-x grid-margin-x js-select-size-for-mobile open&quot;]/div[@class=&quot;cell large-10&quot;]/div[@class=&quot;attribute-container&quot;]/div[@class=&quot;form-control pdp-size-box checkbox-Z_TAGLIE_0036&quot;]/div[@class=&quot;js-carousel-select-size carousel-select-size&quot;]/div[@class=&quot;product-content-size&quot;]/label[@class=&quot;boolean-field swatch-boolean dark&quot;]/div[@class=&quot;radio-label&quot;]</value>
+      <webElementGuid>b07f6a50-3534-4a3f-b250-239397829a31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='descriptionSidebar']/div[3]/div/div[2]/div/div[2]/div/div[2]/div/label[2]/div</value>
+      <webElementGuid>ce8e564b-3dfe-40b9-912d-e0b0be171142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Przewodnik po rozmiarach'])[1]/following::div[5]</value>
+      <webElementGuid>73d29a35-02b8-4efd-ad99-a391e282fbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rozmiar'])[1]/following::div[6]</value>
+      <webElementGuid>8d91edca-135e-4605-8a10-40a710840622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wybierz rozmiar, aby sprawdzić dostępność'])[1]/preceding::div[2]</value>
+      <webElementGuid>33375598-b434-4b12-9577-87225eb7c81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3C']/parent::*</value>
+      <webElementGuid>895dfaf0-7e5c-4c31-95f2-be791d2fa1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/div</value>
+      <webElementGuid>e2e84a5f-fd5b-434b-afcc-f57baf2ee1b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+3C
+' or . = '
+3C
+')]</value>
+      <webElementGuid>9b2d7cbb-2ef6-48b1-bab5-6fafca57a212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

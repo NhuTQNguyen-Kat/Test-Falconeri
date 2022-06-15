@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yes2</name>
+   <tag></tag>
+   <elementGuidId>d022a9ed-155e-41d0-8cf9-75c01104c255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div[2]/div/form/div[6]/div[2]/label[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@class, 'boolean-field') and @for = 'input-id-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boolean-field</value>
+      <webElementGuid>69f06042-e142-4fd1-8f29-a311d0abbb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-id-2</value>
+      <webElementGuid>02f10e74-b3e5-4769-81a7-f0f9a45d38f4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

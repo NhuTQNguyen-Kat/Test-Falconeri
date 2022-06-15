@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>0f6d32cd-6f57-4f44-a406-1c44f7f9d7af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='geoblock-close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#geoblock-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0b632cd6-b320-44a0-a10f-d0dbbbc018b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>geoblock-close</value>
+      <webElementGuid>e2289a33-9b0a-4202-86d4-f97ecd42e06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>geoblock-close geoblock-actions-item</value>
+      <webElementGuid>6a961a4a-ab57-43c3-8384-85c234f9eb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+×
+</value>
+      <webElementGuid>5bf6815f-afea-4e01-a68b-121e676df1dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;geoblock-close&quot;)</value>
+      <webElementGuid>b8d72d6d-6c2d-49f8-936a-5dbf9d4ace41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='geoblock-close']</value>
+      <webElementGuid>d5516a52-fe57-4ed9-8b33-be1d02e184c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[6]/div/div[2]/button</value>
+      <webElementGuid>dabfdf9a-a009-43c1-988c-1b2a499b4695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Visita l', &quot;'&quot;, 'e-store del tuo paese')])[1]/following::button[1]</value>
+      <webElementGuid>59569558-d5f4-4932-8cf0-0f8dbd19ee5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ti serve aiuto?'])[1]/preceding::button[1]</value>
+      <webElementGuid>8e5b4082-b5b6-40a3-9376-5f5e45703211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebChat'])[1]/preceding::button[1]</value>
+      <webElementGuid>97cbdf69-581a-4698-9c56-78499a80ccca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/button</value>
+      <webElementGuid>c31d7d1b-7d57-4a4e-8225-dc421c9a905b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'geoblock-close' and (text() = '
+×
+' or . = '
+×
+')]</value>
+      <webElementGuid>44653e58-0b3c-43e3-8e59-bbaef76eed6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

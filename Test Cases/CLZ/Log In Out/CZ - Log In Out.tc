@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CZ - Log In Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f22fb589-f114-4dc7-ba2a-8ec3cf0f882c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee901e2e-9c3d-4309-b722-8484cfe99fde</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testMail9079996@yopmail.com'</defaultValue>
+      <description></description>
+      <id>ee901e2e-9c3d-4309-b722-8484cfe99fde</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

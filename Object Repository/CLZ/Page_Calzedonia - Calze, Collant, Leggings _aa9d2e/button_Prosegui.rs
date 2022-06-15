@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prosegui</name>
+   <tag></tag>
+   <elementGuidId>79bfca77-5ca5-4327-8642-74b43f49c256</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.expanded.registerPhoneButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5382bbe8-4000-44fc-a7ff-379aa43dc1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>490a173d-ad7f-4e03-86b9-1f12b9b10673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button expanded registerPhoneButton</value>
+      <webElementGuid>a6795ca5-9aa4-462d-bfc7-239b2285c591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Prosegui
+</value>
+      <webElementGuid>c221f99b-73a3-4e80-8ad7-6adc5b01f4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;ls-tab-off&quot;]/div[@class=&quot;page page--full page--login&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-x align-center&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;registration-page-form-block&quot;]/form[@class=&quot;registration&quot;]/div[@class=&quot;grid-x align-right&quot;]/button[@class=&quot;button expanded registerPhoneButton&quot;]</value>
+      <webElementGuid>bba28f7c-db1f-4654-a310-306a0694860c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>4e3e15ac-3204-41aa-8b87-01a5045ed479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div[2]/div[4]/div/div/div/div/form/div[5]/button</value>
+      <webElementGuid>8e2d2afb-9063-41bc-bf3a-a8be8bc3c6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Telefono'])[1]/following::button[1]</value>
+      <webElementGuid>3af9e1e4-e47e-406d-bd57-a907f1f55d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrati ora'])[1]/following::button[1]</value>
+      <webElementGuid>f1448aa9-1701-4641-be91-1f24bd9f32ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Inserisci codice'])[1]/preceding::button[1]</value>
+      <webElementGuid>2fd4c02d-bfb3-41b6-a7c4-62e5d8696d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conferma codice'])[1]/preceding::button[1]</value>
+      <webElementGuid>85aeb7b4-c5b5-4d6e-8f12-23320e135fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prosegui']/parent::*</value>
+      <webElementGuid>4e4ad6da-c34e-4b76-a617-a9d7e7a1ee93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7827671b-3c4c-42b9-bc02-b88ddaff7a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+Prosegui
+' or . = '
+Prosegui
+')]</value>
+      <webElementGuid>cb8bd56e-b48f-4489-8f14-cdb2e34a53af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

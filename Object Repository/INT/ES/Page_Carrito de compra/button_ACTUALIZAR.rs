@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ACTUALIZAR</name>
+   <tag></tag>
+   <elementGuidId>90ebe38a-8c76-493c-88ea-d047d2c46777</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[2]/div/div[2]/section/div[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.update-cart-product-global.button.button-primary.expanded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa0a69dd-93f6-4c72-ab2f-4714d37e0f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>update-cart-product-global button button-primary expanded</value>
+      <webElementGuid>9062725e-17b1-4494-921f-b7d2ac530525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pid</name>
+      <type>Main</type>
+      <value>LTD28Q   231IS</value>
+      <webElementGuid>99dca2a1-ca77-43e3-9d30-2c9af35782c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>10b659cc-6299-456d-882d-bf7b535fbaa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            ACTUALIZAR
+        </value>
+      <webElementGuid>ad8a7c0c-498a-454a-8951-072634b16d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal quickview-modal tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;product-quickview product-quickview--get-product product-variant col product-wrapper product-detail product-detail-keeper&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;cell small-5&quot;]/div[@class=&quot;margin-wrapper-description&quot;]/div[@class=&quot;detail-panel&quot;]/section[@class=&quot;attributes&quot;]/div[@class=&quot;row cart-and-ipay&quot;]/div[@class=&quot;col-sm-12&quot;]/button[@class=&quot;update-cart-product-global button button-primary expanded&quot;]</value>
+      <webElementGuid>e0eb708d-45af-4885-9cbc-ede2529d1208</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[2]/div/div[2]/section/div[4]/div/button</value>
+      <webElementGuid>c1c79308-5508-4cb9-9e6d-808be0c6dd11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este producto todavía no ha salido; guárdalo en la lista de deseos'])[1]/following::button[1]</value>
+      <webElementGuid>18bdbc5f-9bc0-4588-861f-1cb7c281d18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>d52f188c-f7b7-45dc-800c-2b8e143d9c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[1]</value>
+      <webElementGuid>f77be3f7-b86f-4c2c-b082-cc19944e3f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::button[2]</value>
+      <webElementGuid>9117d37e-e1df-4817-9242-e0e009fa6610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACTUALIZAR']/parent::*</value>
+      <webElementGuid>2fc471a1-26f0-4a85-bebb-7b5d3cb34fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>9b17ccec-e024-402b-b317-95c66856ef06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+            ACTUALIZAR
+        ' or . = '
+            ACTUALIZAR
+        ')]</value>
+      <webElementGuid>f193c3a2-c9ec-4f58-befb-6c70ba1060dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

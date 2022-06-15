@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newsletterXfr</name>
+   <tag></tag>
+   <elementGuidId>da41e248-1f75-4a50-addf-e72271a0281c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>5fa78786-624a-4cf3-b050-1f4f19672f90</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UK - Log In Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d36aa5be-34f8-44b2-84e2-3241de92a235</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7b41c55-d367-45d0-9627-8e8ab78625e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testmail3594861@yopmail.com'</defaultValue>
+      <description></description>
+      <id>c7b41c55-d367-45d0-9627-8e8ab78625e0</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

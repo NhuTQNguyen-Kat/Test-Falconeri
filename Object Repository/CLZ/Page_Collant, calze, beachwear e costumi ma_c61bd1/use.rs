@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>6516f1b9-513f-48bb-af13-2e29537c203f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.medium > use</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//use[@href = '/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1653568139353/images/sprite.svg#login-flag']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>408a6f5c-554e-4303-ba61-bddffc2d203a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1653568139353/images/sprite.svg#login-flag</value>
+      <webElementGuid>fc98514f-d4fd-40fe-93ba-f87c0dcb6744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page-home-gender&quot;]/header[@class=&quot;main-header pos-relative&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;top-row grid-x&quot;]/div[@class=&quot;cell medium-shrink small-2 first-for-medium-down grid-x&quot;]/div[@class=&quot;main-header-login&quot;]/div[@class=&quot;main-header-login__dropdown hover&quot;]/a[@class=&quot;no-hover analytic-header-icon&quot;]/i[1]/svg[@class=&quot;medium&quot;]/use[1]</value>
+      <webElementGuid>82141273-af81-43b2-a4b5-6c2689aa71b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>1e6c5585-76ad-4017-81f5-4306e8427dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1653394227706/images/sprite.svg#login</value>
+      <webElementGuid>d3f35d66-8dd8-4bb8-a042-51b2ae01b5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off&quot;]/div[@class=&quot;page page-home-gender&quot;]/header[@class=&quot;main-header pos-relative&quot;]/nav[@class=&quot;solid&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;top-row grid-x&quot;]/div[@class=&quot;cell medium-shrink small-2 first-for-medium-down grid-x&quot;]/div[@class=&quot;main-header-login&quot;]/div[@class=&quot;main-header-login__dropdown hover&quot;]/a[@class=&quot;no-hover analytic-header-icon js-layer-login&quot;]/i[1]/svg[1]/use[1]</value>
+      <webElementGuid>1a76d620-7836-4b4b-8e69-3638ec731fea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1653568139353/images/sprite.svg#login-flag']</value>
+      <webElementGuid>5f9dcb6c-b896-4635-915e-d7bd2f5c0a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '/on/demandware.static/Sites-calzedonia-eu-Site/-/it_IT/v1653394227706/images/sprite.svg#login']</value>
+      <webElementGuid>da37313a-0b9d-4e17-add7-d3635f21fe36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

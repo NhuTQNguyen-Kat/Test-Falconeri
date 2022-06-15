@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Paga con</name>
+   <tag></tag>
+   <elementGuidId>e232537d-9d6c-4bd0-88ce-6010a3146874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paypal-animation-content']/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.paypal-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3fe96033-9745-408f-adc3-9d4c14c91af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paypal-button-text</value>
+      <webElementGuid>7092dad9-02e4-4ef7-a7db-e44f7e0d8c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paga con </value>
+      <webElementGuid>739c6914-0d77-403f-9949-02f3ad71ac6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paypal-animation-content&quot;)/div[@class=&quot;paypal-button-container paypal-button-layout-horizontal paypal-button-shape-rect paypal-button-branding-branded paypal-button-number-single paypal-button-env-sandbox paypal-should-focus&quot;]/div[@class=&quot;paypal-button paypal-button-number-0 paypal-button-layout-horizontal paypal-button-shape-rect paypal-button-branding-branded paypal-button-number-single paypal-button-env-sandbox paypal-should-focus paypal-button-label-pay paypal-button-color-white paypal-button-logo-color-blue&quot;]/div[@class=&quot;paypal-button-label-container&quot;]/span[@class=&quot;paypal-button-text&quot;]</value>
+      <webElementGuid>a4a8756e-9416-477a-b826-a391399b4aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/CLZ/Page_Pagamento - Calzedonia/iframe_cookie policy_xcomponent__ppbutton___a95c9f</value>
+      <webElementGuid>ff4c3f28-727d-4835-9a7c-e552ee8734d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paypal-animation-content']/div/div/div/span</value>
+      <webElementGuid>92593bcb-1846-4adf-a4ff-d290ff8d5191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modalità di pagamento'])[1]/following::span[1]</value>
+      <webElementGuid>11193122-0c49-4b82-b11f-a60aa1680dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Paga con']/parent::*</value>
+      <webElementGuid>feee5b66-3d9a-4d68-aa3a-672cab78fcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>fa88d95a-a0ae-44a2-b330-c243515f7144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Paga con ' or . = 'Paga con ')]</value>
+      <webElementGuid>e95340d1-8249-495d-93bc-4a0f29b76ec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

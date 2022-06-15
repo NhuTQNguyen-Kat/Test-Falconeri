@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>namePayment</name>
+   <tag></tag>
+   <elementGuidId>ca2f6260-eb15-409d-b16c-06c3a697832f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[8]/div[1]/div/div[3]/form/div[1]/fieldset[3]/div/div[11]/div[1]/div/label/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

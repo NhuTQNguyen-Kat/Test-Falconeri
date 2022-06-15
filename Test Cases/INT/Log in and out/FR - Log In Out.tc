@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FR - Log In Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd0ebc07-6d5c-42ea-8f7e-5bd6f3c6fadb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0769b24f-0a3f-452a-9d99-5ae1e1014602</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testmail3594861@yopmail.com'</defaultValue>
+      <description></description>
+      <id>0769b24f-0a3f-452a-9d99-5ae1e1014602</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

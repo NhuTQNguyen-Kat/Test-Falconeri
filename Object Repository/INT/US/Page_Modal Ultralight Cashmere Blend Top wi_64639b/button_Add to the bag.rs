@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to the bag</name>
+   <tag></tag>
+   <elementGuidId>391e8180-35ef-4812-955c-9fa62502a6de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='descriptionSidebar']/div[3]/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cell.large-10.medium-10.small-5.add-to-cart.button.ae-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f12dace-103d-4a7c-9d8a-8d0f2f737195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell large-10 medium-10 small-5 add-to-cart button ae-button</value>
+      <webElementGuid>2f384a82-a16a-4068-b0f8-f8903688c282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pid</name>
+      <type>Main</type>
+      <value>LTD28Q_color_231I</value>
+      <webElementGuid>843df579-ad9d-4f9a-ab2c-7064263baa73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disabled</name>
+      <type>Main</type>
+      <value>&quot;true&quot;</value>
+      <webElementGuid>faac794e-a101-41b8-a83d-4ec1a814b074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ae-blurbtype</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70384a45-23a2-4af2-bfa0-06da74f1f09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ae-form-field</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4d9e55b9-c282-4f69-b652-d5715f7282c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Add to the bag
+</value>
+      <webElementGuid>e003304c-2e8a-46ac-8606-d6f29c680458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;descriptionSidebar&quot;)/div[@class=&quot;grid-x grid-margin-x js-pickable-content-desktop-container&quot;]/div[@class=&quot;cell small-10 add-to-cart-actions hide-for-small-only&quot;]/div[@class=&quot;cart-and-ipay&quot;]/div[@class=&quot;grid-x grid-margin-x&quot;]/button[@class=&quot;cell large-10 medium-10 small-5 add-to-cart button ae-button&quot;]</value>
+      <webElementGuid>3a07fead-b140-4efd-8a0f-866bffd8231f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='descriptionSidebar']/div[3]/div[2]/div/div/button</value>
+      <webElementGuid>7c1a77b6-8309-4234-b875-9126b3b79838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[2]</value>
+      <webElementGuid>aca28e5a-6cf9-4194-8718-6769872554d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customize'])[1]/preceding::button[1]</value>
+      <webElementGuid>a06dcc76-6864-4dc6-8534-6e8d874b5ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to the bag']/parent::*</value>
+      <webElementGuid>0577f553-de85-4152-9b74-3cba7c734ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>fa4f903d-8e03-4914-98f3-05ca22c47739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+Add to the bag
+' or . = '
+Add to the bag
+')]</value>
+      <webElementGuid>595e9c6e-a187-4deb-864c-edba9445b356</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

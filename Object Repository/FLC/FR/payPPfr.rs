@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>payPPfr</name>
+   <tag></tag>
+   <elementGuidId>96feab4a-db39-4b3b-bd79-09c1849eee30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[14]/div[2]/form/fieldset/div[2]/ul/div[3]/div[2]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[14]/div[2]/form/fieldset/div[2]/ul/div[3]/div[2]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>aa25f759-84bc-4a98-bd56-9c8e888fe03b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

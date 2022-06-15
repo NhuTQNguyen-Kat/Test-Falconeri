@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectPPFR</name>
+   <tag></tag>
+   <elementGuidId>9ec3161f-5c66-4bce-9048-d3ffe873c37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[14]/div[2]/form/fieldset/div[2]/ul/div[3]/div[1]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[14]/div[2]/form/fieldset/div[2]/ul/div[3]/div[1]/label/input</value>
+      <webElementGuid>aa8fd5be-67c0-4d32-a780-570bde02737c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AGGIORNA</name>
+   <tag></tag>
+   <elementGuidId>5a013c86-a07c-476c-bbda-9fcce171bb75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[2]/div/div[2]/section/div[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.update-cart-product-global.button.button-primary.expanded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae12488d-3084-4e03-82f0-e9b40ae06c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>update-cart-product-global button button-primary expanded</value>
+      <webElementGuid>74854e8e-1a02-498e-8e5e-9f1730c6d0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pid</name>
+      <type>Main</type>
+      <value>LTD28Q   231IS</value>
+      <webElementGuid>cc699e49-9c04-455f-b337-2aecfabc0ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>86a70723-ac76-465d-8334-4e6cf9162e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            AGGIORNA
+        </value>
+      <webElementGuid>0d983855-8a16-47f4-9386-d551f98fcaaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal quickview-modal tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;product-quickview product-quickview--get-product product-variant col product-wrapper product-detail product-detail-keeper&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;cell small-5&quot;]/div[@class=&quot;margin-wrapper-description&quot;]/div[@class=&quot;detail-panel&quot;]/section[@class=&quot;attributes&quot;]/div[@class=&quot;row cart-and-ipay&quot;]/div[@class=&quot;col-sm-12&quot;]/button[@class=&quot;update-cart-product-global button button-primary expanded&quot;]</value>
+      <webElementGuid>05522389-2a2d-476b-8b17-3a5569edc830</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/div/div/div[2]/div/div[2]/section/div[4]/div/button</value>
+      <webElementGuid>57581bd9-8a2b-47e1-8fc5-9c9c6ae15b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prodotto in arrivo, aggiungilo alla Wishlist'])[1]/following::button[1]</value>
+      <webElementGuid>ee5e5879-800a-4a03-88aa-a9c02b078b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>92ad8c50-b057-4a8e-a4b1-8aad208407da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[1]</value>
+      <webElementGuid>46ab6ca4-87ca-450d-8d11-ad6dcdfe7dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::button[2]</value>
+      <webElementGuid>3f2f423b-a40c-42c8-a03a-6e92702b681c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AGGIORNA']/parent::*</value>
+      <webElementGuid>c701c438-4017-4ccd-82a1-30c2b830d8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>51f58c82-2b3f-49a3-aa2f-f7eab1e9b4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+            AGGIORNA
+        ' or . = '
+            AGGIORNA
+        ')]</value>
+      <webElementGuid>973c9190-021c-4d3f-81ad-e2cb35ebd7b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

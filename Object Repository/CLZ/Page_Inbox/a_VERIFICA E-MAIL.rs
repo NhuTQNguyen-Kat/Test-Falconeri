@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VERIFICA E-MAIL</name>
+   <tag></tag>
+   <elementGuidId>99fc8498-f4ca-40c9-931e-74fc60783a98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > table > tbody > tr > td > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mail']/div/table[5]/tbody/tr/td/table/tbody/tr[2]/td/div/table/tbody/tr/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>83deb8c3-bd1a-42ce-a08c-86db564e4571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://click.email-calzedonia.com/?qs=1c893ac285c9375743831b6810184ae5c2830ad06e5783d2524ad31b30b6377f826bcdfeaa0e6c6479cd8c5475ff7d697eb7eede8c598a6ee729aafc5613bd51</value>
+      <webElementGuid>239d6ac7-d13c-40ae-a70a-2fdbec2c63c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VERIFICA E-MAIL</value>
+      <webElementGuid>07d69ac3-2c36-4e66-9ab2-238211154c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mail&quot;)/div[1]/table[5]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/a[1]</value>
+      <webElementGuid>470d4267-dd7f-457b-b441-45910ae8f828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/CLZ/Page_Inbox/iframe_Undo_ifmail</value>
+      <webElementGuid>a9f797f4-2d80-499b-afe4-f76bdfd74b43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mail']/div/table[5]/tbody/tr/td/table/tbody/tr[2]/td/div/table/tbody/tr/td/a</value>
+      <webElementGuid>1f9bd09e-d0cf-4da6-8fa3-ad60501066f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'VERIFICA E-MAIL')]</value>
+      <webElementGuid>f78043c1-8d74-4ec6-85ba-7876e071b686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='imeIdeOvdje'])[1]/following::a[1]</value>
+      <webElementGuid>36db6f1f-7d03-4068-b3f8-dc3c851a85b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attivazione account'])[1]/following::a[1]</value>
+      <webElementGuid>2a5b9994-55d3-4859-960b-540831c3637c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condizioni di Vendita'])[1]/preceding::a[2]</value>
+      <webElementGuid>53aafa49-fc91-4f18-8e78-6c599628691a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VERIFICA E-MAIL']/parent::*</value>
+      <webElementGuid>afdb9860-8012-41c2-8d03-397963977614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://click.email-calzedonia.com/?qs=1c893ac285c9375743831b6810184ae5c2830ad06e5783d2524ad31b30b6377f826bcdfeaa0e6c6479cd8c5475ff7d697eb7eede8c598a6ee729aafc5613bd51')]</value>
+      <webElementGuid>1f3406d6-7840-4a5c-a356-9ed81f1c56cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td/a</value>
+      <webElementGuid>e66ba418-73bd-4f3b-8699-9d56072659d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://click.email-calzedonia.com/?qs=1c893ac285c9375743831b6810184ae5c2830ad06e5783d2524ad31b30b6377f826bcdfeaa0e6c6479cd8c5475ff7d697eb7eede8c598a6ee729aafc5613bd51' and (text() = 'VERIFICA E-MAIL' or . = 'VERIFICA E-MAIL')]</value>
+      <webElementGuid>a8595325-7235-4888-85b6-8d9443424281</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

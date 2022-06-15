@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emailForNotify</name>
+   <tag></tag>
+   <elementGuidId>d474a1da-aac4-4e18-a1f8-87f3fef1e3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div/div[2]/div[2]/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/div[2]/div[2]/div[4]/input</value>
+      <webElementGuid>03ec8aec-4ee7-42d4-afe3-18add351bc49</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

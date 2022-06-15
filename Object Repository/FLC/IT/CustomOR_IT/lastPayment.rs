@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lastPayment</name>
+   <tag></tag>
+   <elementGuidId>47ffe175-cafa-4f61-8502-c5b7f645a32a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div[1]/div[4]/div[1]/div[8]/div[1]/div/div[3]/form/div[1]/fieldset[3]/div/div[11]/div[2]/div/label/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

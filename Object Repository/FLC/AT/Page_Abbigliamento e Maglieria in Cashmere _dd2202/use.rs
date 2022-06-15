@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>de906c1b-6182-493b-a825-6493905adae3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/on/demandware.static/Sites-falconeri-eu-Site/-/de_AT/v1647539355451/images/sprite.svg#header-close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal newsletter-popup tingle-modal--visible tingle-modal--overflow&quot;]/div[@class=&quot;tingle-modal-box rightModalAttribute&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;grid-x&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;newsletter-popup__content&quot;]/button[@class=&quot;close-button small&quot;]/i[1]/svg[@class=&quot;small&quot;]/use[1]</value>
+   </webElementProperties>
+</WebElementEntity>

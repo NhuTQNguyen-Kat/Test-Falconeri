@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password_switch slider round</name>
+   <tag></tag>
+   <elementGuidId>7f9f107e-46bb-4c72-8126-88c818acf75e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.switch.slider.round</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ext-gen44']/body/div/div/div/div/form/div[3]/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a10a88be-0f91-4b07-b1d2-e48e900e3981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch slider round</value>
+      <webElementGuid>0763af32-7659-40f4-a62b-6ed7c5b6252d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen44&quot;)/body[@class=&quot;fpls-js ls-tab-off tingle-enabled&quot;]/div[@class=&quot;tingle-modal layer-login-modal tingle-modal--visible&quot;]/div[@class=&quot;tingle-modal-box&quot;]/div[@class=&quot;tingle-modal-box__content&quot;]/div[@class=&quot;fix-padding&quot;]/form[@class=&quot;login&quot;]/div[@class=&quot;login-forgot-password-save-access&quot;]/div[@class=&quot;remember-me-container&quot;]/label[@class=&quot;boolean-field login-save-access no-padding&quot;]/span[@class=&quot;rememberme-wrapper pos-relative&quot;]/span[@class=&quot;switch slider round&quot;]</value>
+      <webElementGuid>af46e682-95cf-424b-a5be-6d2d3f83983a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen44']/body/div/div/div/div/form/div[3]/div/label/span/span</value>
+      <webElementGuid>64c6f731-39c9-4a1f-aabb-74a35625d436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>3fbdff77-e017-4311-8f81-4b23df6ccfb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

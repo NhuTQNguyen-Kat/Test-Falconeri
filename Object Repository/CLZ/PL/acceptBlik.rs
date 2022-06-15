@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>acceptBlik</name>
+   <tag></tag>
+   <elementGuidId>8f92e0fd-a9c0-4158-a058-7541e1b5cb48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[1]/div[2]/div/div[1]/div[12]/div[2]/form/fieldset/div[2]/ul/div[4]/div[2]/div[1]/div/div[1]/label/span[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

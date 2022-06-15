@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FLC - ALL - Notify Me,Windows - Chrome 99.0.4844.51,,,2022-06-15 09:37:22,2022-06-15 09:40:22,2m - 59.721s,FAILED
+,,,,,,,
+Test Cases/FLC/Notify Me/JP - Notify Me,Windows - Chrome 99.0.4844.51,,,2022-06-15 09:37:22,2022-06-15 09:40:22,2m - 59.462s,FAILED
+"openBrowser("""")",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:37:23,2022-06-15 09:38:12,49.136s,PASSED
+maximizeWindow(),Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:12,2022-06-15 09:38:12,0.706s,PASSED
+RN = Math.random() * 10000000,Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:12,2022-06-15 09:38:12,0.015s,PASSED
+"locale = ""jp""",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:12,2022-06-15 09:38:12,0.001s,PASSED
+"brand = ""FLC""",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:12,2022-06-15 09:38:12,0.000s,PASSED
+"email = ""testMail"" + RN + ""@yopmail.com""",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:12,2022-06-15 09:38:12,0.001s,PASSED
+"navigateToUrl(""https://storefront:may2019@test.falconeri.com/jp/product/basic-baumwollhose-UPL0004.html?dwvar_UPL0004_Z_COL_FALCU=8493"")",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:12,2022-06-15 09:38:19,6.905s,PASSED
+"enhancedClick(findTestObject(""FLC/AT/Page_Basic-Baumwollhose - Homewear  Falconeri/div_XXXXL""))",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:19,2022-06-15 09:38:55,35.339s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/FLC/DE/Page_Jacke Aus Cashmere Ultralight - Cardig_bdd78b/input_DML261G_emailNotify""), 80)",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:38:55,2022-06-15 09:40:17,1m - 22.450s,PASSED
+"setText(findTestObject(""Object Repository/FLC/DE/Page_Jacke Aus Cashmere Ultralight - Cardig_bdd78b/input_DML261G_emailNotify""), email)",Windows - Chrome 99.0.4844.51,,,2022-06-15 09:40:17,2022-06-15 09:40:22,4.617s,FAILED
