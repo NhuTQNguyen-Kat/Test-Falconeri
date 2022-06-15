@@ -30,13 +30,16 @@ String brand = 'FLC'
 
 String email = ('testMail' + RN) + '@yopmail.com'
 
+WebUI.setViewPortSize(3560, 2440)
+
+
 WebUI.navigateToUrl('https://storefront:may2019@test.falconeri.com/jp/product/basic-baumwollhose-UPL0004.html?dwvar_UPL0004_Z_COL_FALCU=8493')
 
 WebUI.takeScreenshot()
 
 //WebUI.setViewPortSize(1920, 1080)
 
-//WebUI.setViewPortSize(2560, 1440)
+WebUI.setViewPortSize(2560, 1440)
 
 WebUI.takeScreenshot()
 
