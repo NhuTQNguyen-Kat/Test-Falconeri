@@ -16,6 +16,20 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.driver.DriverFactory
+import com.kms.katalon.core.webui.driver.WebUIDriverType
+import com.kms.katalon.core.configuration.RunConfiguration
+
+/// Get driver type
+String driverTypeString = RunConfiguration.getDriverSystemProperty(DriverFactory.REMOTE_DRIVER_PROPERTY,
+		DriverFactory.EXECUTED_BROWSER_PROPERTY);
+boolean isTestCloud = false;
+if (driverTypeString != null) {
+    WebUIDriverType webDriverType = WebUIDriverType.valueOf(driverTypeString)
+    isTestCloud = webDriverType == WebUIDriverType.TESTCLOUD_DRIVER
+}
+/// End get driver type
+
 
 WebUI.openBrowser('')
 

@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-FLC - ALL - Notify Me,,,,2022-06-15 09:30:45,2022-06-15 09:30:48,3.470s,FAILED
-,,,,,,,
-Test Cases/FLC/Notify Me/JP - Notify Me,,,,2022-06-15 09:30:45,2022-06-15 09:30:48,3.214s,FAILED
-"openBrowser("""")",,,,2022-06-15 09:30:45,2022-06-15 09:30:48,2.904s,FAILED
